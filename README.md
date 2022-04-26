@@ -15,8 +15,14 @@
 (2022/04/19) : chapter 1 -> (Tianea)
 
 2주차 : <br> 
-(2022/04/25) : chapter 2 -> (?)
+(2022/04/25) : chapter 2 -> (쿠쿠)
 
 
 [ 스터디 원 ]
 - [Tianea](https://github.com/Tianea2160)
+- [Doxxx]()
+- [조지헌]()
+- [윤주리]()
+- [Hyuna]()
+- [먹고자]()
+- [쿠쿠]()
