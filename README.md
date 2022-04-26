@@ -1,5 +1,5 @@
 # ModernJavaInActionStudy
-[ 스터디 규칙 ]
+## [ 스터디 규칙 ]
 > 스터디 시간 : 매주 월요일 오후 9시
 
 스터디 진행 방식 :
@@ -18,11 +18,16 @@
 (2022/04/25) : chapter 2 -> (쿠쿠)
 
 
-[ 스터디 원 ]
-- [Tianea](https://github.com/Tianea2160)
-- [Doxxx]()
-- [조지헌]()
-- [윤주리]()
-- [Hyuna]()
-- [먹고자]()
-- [쿠쿠]()
+## [ 스터디 원 ]
+>- [Tianea](https://github.com/Tianea2160)
+>- [Doxxx]()
+>- [조지헌]()
+>- [윤주리]()
+>- [Hyuna]()
+>- [먹고자]()
+>- [쿠쿠]()
+
+
+## [ 공부 내용 ]
+> - [chapter 1: 자바 8,9,10,11d에서 무슨일이 일어나고 있는가?](https://github.com/Tianea2160/ModernJavaInActionStudy/issues/1)
+> - [chapter 2: 동작 파라미터화 코드 전달하기](https://github.com/Tianea2160/ModernJavaInActionStudy/issues/2)
