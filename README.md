@@ -20,6 +20,9 @@
 3주차 : <br> 
 (2022/05/02) : chapter 3 -> (윤주리)
 
+4주차 : <br> 
+(2022/05/09) : chapter 4 -> (쿠쿠)
+
 
 ## [ 스터디 원 ]
 >- [Tianea](https://github.com/Tianea2160)
@@ -32,6 +35,8 @@
 
 
 ## [ 공부 내용 ]
-> - [chapter 1: 자바 8,9,10,11d에서 무슨일이 일어나고 있는가?](https://github.com/Tianea2160/ModernJavaInActionStudy/issues/1)
-> - [chapter 2: 동작 파라미터화 코드 전달하기](https://github.com/Tianea2160/ModernJavaInActionStudy/issues/2)
-> - [chapter 3: 람다 표현식](https://github.com/Tianea2160/ModernJavaInActionStudy/issues/3)
+> - [chapter 1: 자바 8,9,10,11d에서 무슨일이 일어나고 있는가?](https://github.com/study-mji/ModernJavaInActionStudy/issues/1)
+> - [chapter 2: 동작 파라미터화 코드 전달하기](https://github.com/study-mji/ModernJavaInActionStudy/issues/2)
+> - [chapter 3: 람다 표현식](https://github.com/study-mji/ModernJavaInActionStudy/issues/3)
+> - [chapter 4: 스트림 소개](https://github.com/study-mji/ModernJavaInActionStudy/issues/4)
+> 
