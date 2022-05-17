@@ -23,6 +23,9 @@
 4주차 : <br> 
 (2022/05/09) : chapter 4 -> (쿠쿠)
 
+5주차 : <br> 
+(2022/05/09) : chapter 5 -> (조지헌)
+
 
 ## [ 스터디 원 ]
 >- [Tianea](https://github.com/Tianea2160)
@@ -39,4 +42,4 @@
 > - [chapter 2: 동작 파라미터화 코드 전달하기](https://github.com/study-mji/ModernJavaInActionStudy/issues/2)
 > - [chapter 3: 람다 표현식](https://github.com/study-mji/ModernJavaInActionStudy/issues/3)
 > - [chapter 4: 스트림 소개](https://github.com/study-mji/ModernJavaInActionStudy/issues/4)
-> 
+> - [chapter 5: ㅅ트림 활용](https://github.com/study-mji/ModernJavaInActionStudy/issues/5)
