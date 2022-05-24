@@ -24,8 +24,10 @@
 (2022/05/09) : chapter 4 -> (쿠쿠)
 
 5주차 : <br> 
-(2022/05/09) : chapter 5 -> (조지헌)
+(2022/05/16) : chapter 5 -> (조지헌)
 
+6주차 : <br> 
+(2022/05/23) : chapter 6 -> (Tianea)
 
 ## [ 스터디 원 ]
 >- [Tianea](https://github.com/Tianea2160)
@@ -43,3 +45,4 @@
 > - [chapter 3: 람다 표현식](https://github.com/study-mji/ModernJavaInActionStudy/issues/3)
 > - [chapter 4: 스트림 소개](https://github.com/study-mji/ModernJavaInActionStudy/issues/4)
 > - [chapter 5: 스트림 활용](https://github.com/study-mji/ModernJavaInActionStudy/issues/5)
+> - [chapter 6: 스트림으로 데이터 ](https://github.com/study-mji/ModernJavaInActionStudy/issues/6)
