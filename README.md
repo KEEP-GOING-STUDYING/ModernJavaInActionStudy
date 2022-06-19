@@ -32,6 +32,12 @@
 7주차 : <br> 
 (2022/05/30) : 팀원간의 협의 하에 한 주 쉼
 
+8주차 : <br> 
+(2022/06/14) : chapter 7 -> (Doxxx)
+
+9주차 : <br> 
+(2022/06/14) : chapter 8 -> (먹고자)
+
 ## [ 스터디 원 ]
 >- [Tianea](https://github.com/Tianea2160)
 >- [Doxxx]()
@@ -49,3 +55,5 @@
 > - [chapter 4: 스트림 소개](https://github.com/study-mji/ModernJavaInActionStudy/issues/4)
 > - [chapter 5: 스트림 활용](https://github.com/study-mji/ModernJavaInActionStudy/issues/5)
 > - [chapter 6: 스트림으로 데이터 ](https://github.com/study-mji/ModernJavaInActionStudy/issues/6)
+> - [chapter 7: 병렬 데이터 처리와 성능 ](https://github.com/study-mji/ModernJavaInActionStudy/issues/7)
+> - [chapter 8: 컬렉션 api 개선 ](https://github.com/study-mji/ModernJavaInActionStudy/issues/8)
