@@ -33,10 +33,13 @@
 (2022/05/30) : 팀원간의 협의 하에 한 주 쉼
 
 8주차 : <br> 
-(2022/06/14) : chapter 7 -> (Doxxx)
+(2022/06/06) : chapter 7 -> (Doxxx)
 
 9주차 : <br> 
 (2022/06/14) : chapter 8 -> (먹고자)
+
+10주차 : <br> 
+(2022/06/21) : chapter 9 -> (먹고자)
 
 ## [ 스터디 원 ]
 >- [Tianea](https://github.com/Tianea2160)
@@ -57,3 +60,5 @@
 > - [chapter 6: 스트림으로 데이터 ](https://github.com/study-mji/ModernJavaInActionStudy/issues/6)
 > - [chapter 7: 병렬 데이터 처리와 성능 ](https://github.com/study-mji/ModernJavaInActionStudy/issues/7)
 > - [chapter 8: 컬렉션 api 개선 ](https://github.com/study-mji/ModernJavaInActionStudy/issues/8)
+> - [chapter 9: 리팩터링, 테스팅, 디버깅 ](https://github.com/study-mji/ModernJavaInActionStudy/issues/9)
+> - [chapter 10: 람다를 이용한 도메인 전용 용어 ](https://github.com/study-mji/ModernJavaInActionStudy/issues/10)
