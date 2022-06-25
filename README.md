@@ -57,3 +57,4 @@
 > - [chapter 6: 스트림으로 데이터 ](https://github.com/study-mji/ModernJavaInActionStudy/issues/6)
 > - [chapter 7: 병렬 데이터 처리와 성능 ](https://github.com/study-mji/ModernJavaInActionStudy/issues/7)
 > - [chapter 8: 컬렉션 api 개선 ](https://github.com/study-mji/ModernJavaInActionStudy/issues/8)
+> - [chapter 9: 리팩터링, 테스팅, 디버깅](https://github.com/study-mji/ModernJavaInActionStudy/issues/9)
