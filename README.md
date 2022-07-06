@@ -41,6 +41,12 @@
 10주차 : <br> 
 (2022/06/21) : chapter 9 -> (먹고자)
 
+11주차 : <br> 
+(2022/06/21) : chapter 10 -> (Tianea)
+
+12주차 : <br> 
+(2022/06/21) : chapter 11 -> (Tianea)
+
 ## [ 스터디 원 ]
 >- [Tianea](https://github.com/Tianea2160)
 >- [Doxxx]()
@@ -62,3 +68,4 @@
 > - [chapter 8: 컬렉션 api 개선 ](https://github.com/study-mji/ModernJavaInActionStudy/issues/8)
 > - [chapter 9: 리팩터링, 테스팅, 디버깅 ](https://github.com/study-mji/ModernJavaInActionStudy/issues/9)
 > - [chapter 10: 람다를 이용한 도메인 전용 용어 ](https://github.com/study-mji/ModernJavaInActionStudy/issues/10)
+> - [chapter 11: null 대신 Optional 클래스](https://github.com/study-mji/ModernJavaInActionStudy/issues/11)
