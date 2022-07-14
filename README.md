@@ -42,10 +42,13 @@
 (2022/06/21) : chapter 9 -> (먹고자)
 
 11주차 : <br> 
-(2022/07/04) : chapter 10 -> (Tianea)
+(2022/06/27) : chapter 10 -> (Tianea)
 
 12주차 : <br> 
-(2022/07/11) : chapter 11 -> (Tianea)
+(2022/07/04) : chapter 11 -> (Tianea)
+
+13주차 : <br> 
+(2022/07/11) : chapter 12 -> (먹고자)
 
 ## [ 스터디 원 ]
 >- [Tianea](https://github.com/Tianea2160)
