@@ -80,5 +80,5 @@
 > - [chapter 10: 람다를 이용한 도메인 전용 용어 ](https://github.com/study-mji/ModernJavaInActionStudy/issues/10)
 > - [chapter 11: null 대신 Optional 클래스](https://github.com/study-mji/ModernJavaInActionStudy/issues/11)
 > - [chapter 12: 날씨 관련 시간 api](https://github.com/study-mji/ModernJavaInActionStudy/issues/12)
-> - [chapter 13: default method](https://github.com/study-mji/ModernJavaInActionStudy/issues/13)
+> - [chapter 13: default method](https://github.com/study-mji/ModernJavaInActionStudy/issues/15)
 
