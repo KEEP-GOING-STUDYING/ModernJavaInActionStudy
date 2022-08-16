@@ -54,8 +54,14 @@
 (2022/07/19) : chapter 13 -> (Tianea)
 
 15주차 : <br> 
-(2022/07/25) : chapter 15 -> ()
+(2022/07/25) : -> ()
 -> 15, 16 단원을 08/01에 몰아서 스터디하기로 상호합의
+
+16주차 : <br> 
+(2022/08/11) : chapter 15, 16 -> (먹고자)
+
+17주차 : <br> 
+(2022/08/15) : chapter 17 -> (Tianea)
 
 ## [ 스터디 원 ]
 >- [Tianea](https://github.com/Tianea2160)
@@ -81,4 +87,6 @@
 > - [chapter 11: null 대신 Optional 클래스](https://github.com/study-mji/ModernJavaInActionStudy/issues/11)
 > - [chapter 12: 날씨 관련 시간 api](https://github.com/study-mji/ModernJavaInActionStudy/issues/12)
 > - [chapter 13: default method](https://github.com/study-mji/ModernJavaInActionStudy/issues/15)
+> - [chapter 15, 16: 리액티브 프로그래밍](https://github.com/study-mji/ModernJavaInActionStudy/issues/16)
+> - [chapter 17: 함수형 프로그래밍](https://github.com/study-mji/ModernJavaInActionStudy/issues/17)
 
